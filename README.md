@@ -17,8 +17,9 @@ Requirements
 Contributions
 -------------
 
-- Favicon and some content by [Yarrow Paddon-Butler](mailto:yarrow@8bitgoggles.org.uk) (`static/favicon.ico`)
+- Favicon and some content by [Yarrow Paddon-Butler](https://github.com/goggles/) (`static/favicon.ico`)
 - Logo by Seth Khan (`static/logo.*`)
+- Original design and content by [Sam Clements](https://github.com/borntyping/)
 
 Licence
 -------
