@@ -8,8 +8,10 @@ permalink: /rules/
 
 First are the safety rules. These are important, and breaking them may get you banned from the society.
 
-- **Listen to the moderators**
+- **Listen to the moderators and respect them**
   <br/> Follow their instructions - especially at the start of games.
+  <br/> Do not make false calls such as adding rules mid game.
+  <br/> Do not argue with or verbally abuse the moderators.
 - **No physical contact**
   <br/> Don't push, shove or grab at other players.
   <br/> *HvZ is slightly different as it involves tagging other people via touch, but don't go barrelling into people.*
