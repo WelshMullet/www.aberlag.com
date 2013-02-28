@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Weekly Shootouts
-permalink: /shootouts/
 ---
 
 AberLAG runs 'shootouts' regularly on Wednesday and Saturday afternoons. There is normally an event page on the Facebook group describing the event location and time (at least 4 days in advance, or 2 during periods where the weather is unpredictable) - if there isn't contact the Events Manager (Dave Haenze) or the committee.
