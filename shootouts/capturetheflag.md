@@ -1,6 +1,6 @@
 ---
 title: Capture the Flag
-category: gametypes
+category: [gametypes]
 tags: [rules]
 layout: default
 ---

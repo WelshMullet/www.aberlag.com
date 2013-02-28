@@ -1,6 +1,6 @@
 ---
 title: Traitor/Mafia
-category: gametypes
+category: [gametypes]
 tags: [rules]
 layout: default
 ---

@@ -1,6 +1,6 @@
 ---
 title: Survival Games
-category: gametypes
+category: [gametypes]
 tags: [rules]
 layout: default
 ---

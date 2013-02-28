@@ -7,9 +7,7 @@ AberLAG runs 'shootouts' regularly on Wednesday and Saturday afternoons. There i
 
 ### Game types
 
-{% for post in site.categories.gametypes %}
-- [{{ post.title }}]({{ post.url }})
-{% endfor %}
+- [Capture Point](capturepoint.html)
  
 ### Moderating
  

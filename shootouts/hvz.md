@@ -1,6 +1,6 @@
 ---
 title: Humans Vs Zombies (Micro)
-category: gametypes
+category: [gametypes]
 tags: [rules]
 layout: default
 ---

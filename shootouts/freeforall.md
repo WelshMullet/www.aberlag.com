@@ -1,6 +1,6 @@
 ---
 title: Free-for-All
-category: gametypes
+category: [gametypes]
 tags: [rules]
 layout: default
 ---

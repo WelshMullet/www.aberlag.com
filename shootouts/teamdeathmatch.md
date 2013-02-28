@@ -1,6 +1,6 @@
 ---
 title: Team Deathmatch
-category: gametypes
+category: [gametypes]
 tags: [rules]
 layout: default
 ---

@@ -1,6 +1,6 @@
 ---
 title: Capture Point
-category: gametypes
+category: [gametypes]
 tags: [rules]
 layout: default
 ---
