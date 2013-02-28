@@ -1,7 +1,7 @@
 ---
 title: Capture the Flag
 category: gametypes
-tags: [shootouts, rules]
+tags: [rules]
 layout: default
 ---
 

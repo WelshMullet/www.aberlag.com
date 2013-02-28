@@ -1,7 +1,7 @@
 ---
 title: Survival Games
 category: gametypes
-tags: [shootouts, rules]
+tags: [rules]
 layout: default
 ---
 

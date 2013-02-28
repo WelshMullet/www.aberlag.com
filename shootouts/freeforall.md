@@ -1,7 +1,7 @@
 ---
 title: Free-for-All
 category: gametypes
-tags: [shootouts, rules]
+tags: [rules]
 layout: default
 ---
 
