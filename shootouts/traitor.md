@@ -39,12 +39,12 @@ or by voting to have them arrested during the Day.
 The game cycles through Night and Day, starting with the Night. 
 A moderator will blow a whistle to mark the start of each Night and Day.
  
-** Night **
+**Night**
 
 During the Night, the Mafia must try and eliminate the Innocents - this lasts around 5 minutes, 
 or until the players stop moving.
  
-** Day **
+**Day**
 
 During the Day, the players gather together and vote to execute those people they think are members of the Mafia. 
 There is a ceasefire during the Day.
