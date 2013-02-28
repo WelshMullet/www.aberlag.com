@@ -38,6 +38,9 @@
   js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
+<div class="facebook">
+    <fb:like href="https://www.facebook.com/aberlag" send="false" layout="button_count" width="500" show_faces="false"></fb:like>
+</div>
 <div class="container">
 {% block header %}
 	<div class="header row">
@@ -75,7 +78,7 @@
 				{{ content }}
 			</article>
 			<footer>
-				Site by <a href="http://borntyping.co.uk">Sam Clements</a> and <a href="/README.html">others</a>, &copy; 2012. - Last updated: {{ site.time | date_to_long_string }} - <fb:like href="https://www.facebook.com/aberlag" send="false" layout="button_count" width="500" show_faces="false"></fb:like>
+				Site by <a href="http://borntyping.co.uk">Sam Clements</a> and <a href="/README.html">others</a>, &copy; 2012. - Last updated: {{ site.time | date_to_long_string }}
 			</footer>
 		</div>
 	</div>
