@@ -8,6 +8,12 @@ AberLAG runs 'shootouts' regularly on Wednesday and Saturday afternoons. There i
 ### Game types
 
 - [Capture Point](capturepoint.html)
+- [Capture the Flag](capturetheflag.html)
+- [Free for All](freeforall.html)
+- [Mini Humans vs Zombies](hvz.html)
+- [Survival Games](survivalgames.html)
+- [Team Deathmatch](teamdeathmatch.html)
+- [Traitor](traitor.html)
  
 ### Moderating
  
