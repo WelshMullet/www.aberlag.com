@@ -15,3 +15,5 @@ navigation:
   url: /events/
 - text: Committee
   url: /committee/
+
+markdown: kramdown

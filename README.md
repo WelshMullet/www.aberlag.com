@@ -11,8 +11,16 @@ This site is open source and can be found [on github](https://github.com/aberlag
 Requirements
 ------------
 
-    gem install jekyll jekyll-less therubyracer specific_install
+    gem install jekyll jekyll-less therubyracer specific_install kramdown
     gem specific_install -l git://github.com/borntyping/liquid-inheritance.git
+
+Building
+--------
+
+	git clone git@github.com:aberlag/www.aberlag.com.git
+	git submodule init
+	git submodule update
+	jekyll build
 
 Contributions
 -------------
